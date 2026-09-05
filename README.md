@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.05 | [[1일 1프로젝트] agar.io](https://velog.io/@psyrod1112/1%EC%9D%BC-1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-agar.io) | [@psyrod1112](https://velog.io/@psyrod1112) |
-| 2026.09.05 | [CSAPP : Chapter 1 Summary](https://velog.io/@sr_hyeok/CSAPP-Chapter-1-Summary) | [@sr_hyeok](https://velog.io/@sr_hyeok) |
-| 2026.09.05 | [듀오링고는 왜 하트를 에너지로 바꿨을까? — 2025 UX/UI 사례 분석](https://velog.io/@dodoyeon/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0%EB%8A%94-%EC%99%9C-%ED%95%98%ED%8A%B8%EB%A5%BC-%EC%97%90%EB%84%88%EC%A7%80%EB%A1%9C-%EB%B0%94%EA%BF%A8%EC%9D%84%EA%B9%8C-2025-UXUI-%EC%82%AC%EB%A1%80-%EB%B6%84%EC%84%9D) | [@dodoyeon](https://velog.io/@dodoyeon) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.09.06 | [[과학 뉴스 브리핑] 8글자 유전 알파벳 읽은 RNA 효소, 합성생물학 검증 확대 (9.5)](https://velog.io/@hyuckjin/science-news-briefing-2026-09-05-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.09.06 | [[Korea Stocks] Exports Pass 2025 Total; Hyundai Steel Builds in US (9.5)](https://velog.io/@hyuckjin/kr-stocks-briefing-2026-09-05-en) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.09.06 | [[국내주식 브리핑] 수출 7094억달러·현대제철 美 전기로 투자 본격화 (9.5)](https://velog.io/@hyuckjin/kr-stocks-briefing-2026-09-05-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.09.06 | [[미국주식 브리핑] SEC·Nasdaq 기준 자료로 본 대형주 규제 변수 (9.5)](https://velog.io/@hyuckjin/%EB%AF%B8%EA%B5%AD%EC%A3%BC%EC%8B%9D-%EB%B8%8C%EB%A6%AC%ED%95%91-SECNasdaq-%EA%B8%B0%EC%A4%80-%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%B3%B8-%EB%8C%80%ED%98%95%EC%A3%BC-%EA%B7%9C%EC%A0%9C-%EB%B3%80%EC%88%98-9.5) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.09.06 | [[Economy News] Trump Trade Threat Tests Fed, Markets (9.5)](https://velog.io/@hyuckjin/Economy-News-Trump-Trade-Threat-Tests-Fed-Markets-9.5) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.09.06 | [[경제 뉴스 브리핑] 트럼프 금리 압박·지정학 리스크에 증시 변동성 확대 (9.5)](https://velog.io/@hyuckjin/%EA%B2%BD%EC%A0%9C-%EB%89%B4%EC%8A%A4-%EB%B8%8C%EB%A6%AC%ED%95%91-%ED%8A%B8%EB%9F%BC%ED%94%84-%EA%B8%88%EB%A6%AC-%EC%95%95%EB%B0%95%EC%A7%80%EC%A0%95%ED%95%99-%EB%A6%AC%EC%8A%A4%ED%81%AC%EC%97%90-%EC%A6%9D%EC%8B%9C-%EB%B3%80%EB%8F%99%EC%84%B1-%ED%99%95%EB%8C%80-9.5) | [@hyuckjin](https://velog.io/@hyuckjin) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
