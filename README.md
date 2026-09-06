@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.06 | [2026.09.06 1일 1로그](https://velog.io/@j8rl_chik/2026.09.06-1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8) | [@j8rl_chik](https://velog.io/@j8rl_chik) |
-| 2026.09.06 | [[Infra/OpenStack] OpenStack Neutron 가상 네트워크 이해 (veth pair, Linux Bridge, OVS)](https://velog.io/@eraaster/InfraOpenStack-OpenStack-Neutron-%EA%B0%80%EC%83%81-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%ED%95%B4-veth-pair-Linux-Bridge-OVS) | [@eraaster](https://velog.io/@eraaster) |
-| 2026.09.06 | [방통대 2학년 2학기 시작](https://velog.io/@mhooo/%EB%B0%A9%ED%86%B5%EB%8C%80-2%ED%95%99%EB%85%84-2%ED%95%99%EA%B8%B0-%EC%8B%9C%EC%9E%91) | [@mhooo](https://velog.io/@mhooo) |
-| 2026.09.06 | [26S06e](https://velog.io/@youngkyoo_kim/26S06e) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.09.06 | [26S06d](https://velog.io/@youngkyoo_kim/26S06d) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.09.06 | [26S06c](https://velog.io/@youngkyoo_kim/26S06c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.07 | [Codex에 Astra가 풀렸다 - 사용 사례 보기](https://velog.io/@renewal_jun/Codex%EC%97%90-Astra%EA%B0%80-%ED%92%80%EB%A0%B8%EB%8B%A4-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80-%EB%B3%B4%EA%B8%B0) | [@renewal_jun](https://velog.io/@renewal_jun) |
+| 2026.09.07 | [결제 트랜잭션 재설계 후 트레이드오프 해결 - 결제 로그로 데이터 복구](https://velog.io/@mk9712/%EA%B2%B0%EC%A0%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9E%AC%EC%84%A4%EA%B3%84-%ED%9B%84-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%98%A4%ED%94%84-%ED%95%B4%EA%B2%B0-%EA%B2%B0%EC%A0%9C-%EB%A1%9C%EA%B7%B8%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B5%EA%B5%AC) | [@mk9712](https://velog.io/@mk9712) |
+| 2026.09.07 | [상품 워쳐](https://velog.io/@pjjh125/%EC%83%81%ED%92%88-%EC%9B%8C%EC%B3%90) | [@pjjh125](https://velog.io/@pjjh125) |
+| 2026.09.07 | [[프로그래머스] 수식 최대화](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%98%EC%8B%9D-%EC%B5%9C%EB%8C%80%ED%99%94) | [@j_keun](https://velog.io/@j_keun) |
+| 2026.09.07 | [석사과정 회고](https://velog.io/@2mini/%EC%84%9D%EC%82%AC%EA%B3%BC%EC%A0%95-%ED%9A%8C%EA%B3%A0) | [@2mini](https://velog.io/@2mini) |
+| 2026.09.07 | [교내 AI학술동아리 서류 및 면접 후기](https://velog.io/@tpdms0922/%EA%B5%90%EB%82%B4-AI%ED%95%99%EC%88%A0%EB%8F%99%EC%95%84%EB%A6%AC-%EC%84%9C%EB%A5%98-%EB%B0%8F-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0) | [@tpdms0922](https://velog.io/@tpdms0922) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
